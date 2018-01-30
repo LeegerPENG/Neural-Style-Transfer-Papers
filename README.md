@@ -233,10 +233,11 @@ If you find this repository useful for your research, please cite
 -  [**Ostagram**](https://ostagram.ru/)
 
 > **Code:**
-
-*   [Website code](https://github.com/SergeyMorugin/ostagram)
+* [Website code](https://github.com/SergeyMorugin/ostagram)
 
 -  [**Artisto**](https://artisto.my.com)
+
+- [**Tensorflow Android Demo**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
 
 
 ## Application Papers
