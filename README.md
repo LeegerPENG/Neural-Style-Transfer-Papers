@@ -230,7 +230,7 @@ If you find this repository useful for your research, please cite
 
 *   [Website code](https://github.com/SergeyMorugin/ostagram)
 
-:white_check_mark: [**Deep Forger**](https://deepforger.com/)
+:white_check_mark: [**Artisto**](https://artisto.my.com)
 
 
 ## Application Papers
