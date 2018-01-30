@@ -194,6 +194,8 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/manuelruder/artistic-videos)
 
+- [**Artistic style transfer for videos and spherical images**] [[Paper]](https://arxiv.org/abs/1708.04538)
+
 -  [**DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**] [[Paper]](https://arxiv.org/pdf/1605.08153.pdf)
 
 -  [**Coherent Online Video Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09211.pdf)  *(ICCV 2017)*  *(First end-to-end video style transfer?)*
